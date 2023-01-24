@@ -1,6 +1,7 @@
 
 ![Logo](./docs/assets/logo.svg)
 
+Core technologies for Armenial language support.
 
 ## Dictionaries
 * [Bararan Online](https://bararanonline.com/) 
@@ -9,3 +10,7 @@
 ## Optical Character Recognition (OCR)
 
 * [Tesseract](https://tesseract-ocr.github.io/tessdoc/Data-Files-in-different-versions.html)
+
+## Fonts
+
+* [Fonter.am](https://fonter.am/en)
